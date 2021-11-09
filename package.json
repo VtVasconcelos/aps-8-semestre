@@ -1,0 +1,13 @@
+{
+  "name": "aps-8-semestre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@react-navigation/native": "^6.0.4",
+    "@react-navigation/native-stack": "^6.2.2",
+    "react-native-maps": "^0.29.3",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.8.0"
+  }
+}
